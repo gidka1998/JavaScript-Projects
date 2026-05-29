@@ -14,8 +14,6 @@ Strengthen problem-solving and development skills
 Technologies
 
 **Projects in this repository may use:**
-JavaScript
-HTML
-CSS
+JavaScript, HTML, CSS
 
 More technologies and tools may be added as the course progresses.
